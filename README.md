@@ -1,3 +1,5 @@
+![textutilis](https://github.com/Sourav-Sharma-191940/textutils/assets/60056045/19b2d71c-e2e8-4247-8baf-a1d2bd7de2e1)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,6 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
