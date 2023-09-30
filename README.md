@@ -2,14 +2,14 @@
 
 # TextUtilis 
 This lets you modify the text entered into <br>
-UpperCase
-LowerCase
-Remove Extra Spaces
-Copy text
-Clear text
-There is also a word and character counter,
-Time takes to read text,
-Updated preview text viewer
+UpperCase <br>
+LowerCase <br>
+Remove Extra Spaces <br>
+Copy text <br>
+Clear text <br>
+There is also a word and character counter <br>
+Time takes to read text <br>
+Updated preview text viewer <br>
 There is also a button to switch between dark mode and light mode.
 
 
